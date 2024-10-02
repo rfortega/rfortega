@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm <a href="#">Francisco Ortega</a> 👋</h1>
 </div>
 <!-- <a href="https://github.com/rfortega" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/HByYetH.jpg"></a> -->
-<a href="https://github.com/rfortega" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/8JbvdsV.png"></a>
+<a href="https://github.com/rfortega" target="_blank" rel="noreferrer"><img src="https://imgur.com/a/rbOitSq"></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/rfortega)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
